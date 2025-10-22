@@ -2,7 +2,7 @@
 
 # Percona Docker Images Collection
 
-This repository contains a collection of Dockerfiles for Percona software. Dockerfiles can be used to customize and build docker images.
+This repository contains a collection of Dockerfiles for Percona software. Dockerfiles can be used to customize and build docker images.11
 Read more about Dockerfiles [here](https://docs.docker.com/engine/reference/builder/).
 
 See individual directories for instructions on how to build and run Percona software.
